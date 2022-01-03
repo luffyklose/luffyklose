@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luffyklose
 - 👀 I’m interested in game developing
 - 🌱 I’m currently learning game programming
-- 💞️ I’m looking to collaborate on some UE game demo
+- 💞️ I’m looking to collaborate on some UE and Unity game demo
 - 📫 How to reach me luffyklose@gmail.com
 
 <!---
