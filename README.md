@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luffyklose
+- 👋 Hi, I’m Zihan Xu
 - 👀 I’m interested in game developing
 - 🌱 I’m currently learning game programming
 - 💞️ I’m looking to collaborate on some UE and Unity game demo
